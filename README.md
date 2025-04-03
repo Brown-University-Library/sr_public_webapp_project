@@ -1,3 +1,5 @@
+_2025-April-03 -- archiving this repo. It was for an experiment that wasn't pursued._
+
 # purpose
 
 This is a lightweight -- no database -- django webapp to be a testbed / development-bed for the public version of the Stolen-Relations public website.
